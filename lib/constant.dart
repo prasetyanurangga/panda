@@ -1,0 +1,42 @@
+import 'package:flutter/material.dart';
+
+List<List<Color>> backColor = [
+  [
+    Color(0xFF56CCF2),
+    Color(0xFF2F80ED),
+  ],
+  [
+    Color(0xFFF0B353),
+    Color(0xFFE94276),
+  ],
+  [
+    Color(0xFF34e89e),
+    Color(0xFF0f3443),
+  ],
+  [
+    Color(0xFFC6FFDD),
+    Color(0xFFFBD786),
+    Color(0xFFf7797d),
+  ],
+  [
+    Color(0xFF12c2e9),
+    Color(0xFFc471ed),
+    Color(0xFFf7797d),
+  ],
+  [
+    Color(0xFFb92b27),
+    Color(0xFF1565C0),
+  ],
+  [
+    Color(0xFFc31432),
+    Color(0xFF240b36),
+  ],
+  [
+    Color(0xFFdd3e54),
+    Color(0xFF6be585),
+  ],
+  [
+    Color(0xFF009FFF),
+    Color(0xFFec2F4B),
+  ]
+];
