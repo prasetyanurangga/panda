@@ -24,5 +24,6 @@ For more information contact angganurprasetya4@gmail.com
 
 ### Instastory App Final UI
 ![App UI](https://github.com/prasetyanurangga/panda/raw/main/panda_app_ui.png)
+
 ![Demo](https://github.com/prasetyanurangga/panda/raw/main/panda_app.gif)
 
