@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
     return BlocProvider(
       create: (context)  => JustListenBloc(),
       child: MaterialApp(
-        title: 'Just Podcast',
+        title: 'Panda',
         theme: ThemeData(
           textTheme: GoogleFonts.poppinsTextTheme(
               Theme.of(context).textTheme.apply(bodyColor: Colors.white)),

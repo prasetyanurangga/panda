@@ -11,7 +11,7 @@ import 'package:panda/bloc/just_listen/just_listen_state.dart';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'dart:async';
 import 'package:audio_service/audio_service.dart';
-
+import 'package:flutter_svg/flutter_svg.dart';
 
 class HomePage extends StatefulWidget {
   HomePage({Key key}) : super(key: key);
@@ -178,7 +178,7 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
                               height: MediaQuery.of(context).size.width,
                               color: Colors.white.withOpacity(0.3),
                               child: Center(
-                                  child : Icon(Icons.audiotrack, color: Colors.white, size: 100)
+                                child : SvgPicture.asset("assets/icons/microphone.svg", color: Colors.white, width: 100, height: 100),
                               )
                           ),
                           errorWidget: (context, url, error) => Icon(Icons.error),
@@ -186,14 +186,17 @@ class _HomePageState extends State<HomePage> with SingleTickerProviderStateMixin
                         ),
                       );
                     }
-                    else{
-                      return Container(
-                          width: MediaQuery.of(context).size.width,
-                          height: MediaQuery.of(context).size.width,
-                          color: Colors.white.withOpacity(0.3),
-                          child: Center(
-                              child : Icon(Icons.audiotrack, color: Colors.white, size: 100)
-                          )
+                    else{ 
+                      return ClipRRect(
+                        borderRadius: BorderRadius.circular(16.0),
+                        child: Container(
+                            width: MediaQuery.of(context).size.width,
+                            height: MediaQuery.of(context).size.width,
+                            color: Colors.white.withOpacity(0.3),
+                            child: Center(
+                                child : SvgPicture.asset("assets/icons/microphone.svg", color: Colors.white, width: 100, height: 100),
+                            )
+                        )
                       );
                     }
                   },

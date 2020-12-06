@@ -1,18 +1,7 @@
 import 'package:flutter/material.dart';
 
+const apiKey = "YOUR_API_KEY";
 List<List<Color>> backColor = [
-  [
-    Color(0xFF56CCF2),
-    Color(0xFF2F80ED),
-  ],
-  [
-    Color(0xFFF0B353),
-    Color(0xFFE94276),
-  ],
-  [
-    Color(0xFF34e89e),
-    Color(0xFF0f3443),
-  ],
   [
     Color(0xFFC6FFDD),
     Color(0xFFFBD786),
@@ -38,5 +27,77 @@ List<List<Color>> backColor = [
   [
     Color(0xFF009FFF),
     Color(0xFFec2F4B),
+  ],
+  [
+    Color(0xFFFF416C),
+    Color(0xFFFF4B2B),
+  ],
+  [
+    Color(0xFF8A2387),
+    Color(0xFFE94057),
+    Color(0xFFF27121),
+  ],
+  [
+    Color(0xFFED213A),
+    Color(0xFF93291E),
+  ],
+  [
+    Color(0xFF59C173),
+    Color(0xFFa17fe0),
+    Color(0xFF5D26C1),
+  ],
+  [
+    Color(0xFFDA4453),
+    Color(0xFF89216B),
+  ],
+  [
+    Color(0xFF333333),
+    Color(0xFFdd1818),
+  ],
+  [
+    Color(0xFF355C7D),
+    Color(0xFF6C5B7B),
+    Color(0xFFC06C84),
+  ],
+  [
+    Color(0xFF108dc7),
+    Color(0xFFef8e38),
+  ],
+  [
+    Color(0xFFc94b4b),
+    Color(0xFF4b134f),
+  ],
+  [
+    Color(0xFF23074d),
+    Color(0xFFcc5333),
+  ],
+  [
+    Color(0xFF0f0c29),
+    Color(0xFF302b63),
+    Color(0xFF24243e),
+  ],
+  [
+    Color(0xFFfc4a1a),
+    Color(0xFFf7b733),
+  ],
+  [
+    Color(0xFF03001e),
+    Color(0xFF7303c0),
+    Color(0xFFec38bc),
+    Color(0xFFfdeff9),
+  ],
+  [
+    Color(0xFFe1eec3),
+    Color(0xFFf05053),
+  ],
+  [
+    Color(0xFF1a2a6c),
+    Color(0xFFb21f1f),
+    Color(0xFFfdbb2d),
+  ],
+  [
+    Color(0xFF3A1C71),
+    Color(0xFFD76D77),
+    Color(0xFFFFAF7B),
   ]
 ];

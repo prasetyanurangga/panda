@@ -1,4 +1,5 @@
 import 'package:panda/models/just_listen_model.dart';
+import 'package:panda/constant.dart';
 import 'package:dio/dio.dart';
 import 'custom_exception.dart';
 import 'dart:async';
@@ -14,7 +15,7 @@ class ApiProvider{
     try {
       response = await _dio.get(_endpoint, options: 
         Options(headers: {
-          'X-ListenAPI-Key': 'YOUR_API_KEY',
+          'X-ListenAPI-Key': apiKey,
         })
       );
     } on Error catch (e) {
