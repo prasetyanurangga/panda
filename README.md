@@ -1,16 +1,28 @@
-# panda
+# Panda - Flutter App
 
-A new Flutter project.
 
-## Getting Started
+**Packages we are using:**
 
-This project is a starting point for a Flutter application.
+- [Flutter Svg](https://pub.dev/packages/flutter_svg)
+- [Flutter Bloc](https://pub.dev/packages/flutter_bloc)
+- [Google Fonts](https://pub.dev/packages/google_fonts)
+- [Just Audio](https://pub.dev/packages/just_audio)
+- [Cached network image](https://pub.dev/packages/cached_network_image)
+- [Flutter Animation Progress Bar](https://pub.dev/packages/flutter_animation_progress_bar)
 
-A few resources to get you started if this is your first Flutter project:
+**Fonts**
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+-  [Poppins](https://fonts.google.com/specimen/Poppins)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Contact**
+
+For more information contact angganurprasetya4@gmail.com
+
+**Download Apk**
+
+[Panda.apk](https://github.com/prasetyanurangga/panda/raw/main/panda.apk)
+
+### Instastory App Final UI
+![App UI](https://github.com/prasetyanurangga/panda/raw/main/panda_app_ui.png)
+![Demo](https://github.com/prasetyanurangga/panda/raw/main/panda_app.gif)
+
