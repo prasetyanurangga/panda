@@ -14,6 +14,10 @@
 
 -  [Poppins](https://fonts.google.com/specimen/Poppins)
 
+**Design Credit**
+
+-. [Awesomic (Podcast Cover Design)](Podcast Covers Design - https://dribbble.com/shots/14687034-Podcast-Covers-Design) 
+
 **Contact**
 
 For more information contact angganurprasetya4@gmail.com
