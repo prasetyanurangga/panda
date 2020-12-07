@@ -14,9 +14,9 @@
 
 -  [Poppins](https://fonts.google.com/specimen/Poppins)
 
-**Design Credit**
+**UI Credit**
 
--. [Awesomic (Podcast Cover Design)](Podcast Covers Design - https://dribbble.com/shots/14687034-Podcast-Covers-Design) 
+- Design by: Awesomic - [(Podcast Cover Design)](Podcast Covers Design - https://dribbble.com/shots/14687034-Podcast-Covers-Design)
 
 **Contact**
 
